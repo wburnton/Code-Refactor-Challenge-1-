@@ -13,7 +13,7 @@ This project edited existing code for a webpage that functionted properly, but m
 To read code on webpage, simply use the Devtools to look through the code and discover how things were organized
 
     
-    ![alt text](02-Challenge/Assets/01-html-css-git-homework-demo.png)
+![alt text](02-Challenge/Assets/01-html-css-git-homework-demo.png)
    
 ## License
 
